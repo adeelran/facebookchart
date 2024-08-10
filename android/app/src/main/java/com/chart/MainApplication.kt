@@ -1,4 +1,4 @@
-package com.chart
+package com.chartadeel
 
 import android.app.Application
 import com.facebook.react.PackageList

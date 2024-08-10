@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "56722725879",
+    "project_id": "socialdemo-54e31",
+    "storage_bucket": "socialdemo-54e31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56722725879:android:d4b2ab78928fa43b786cf2",
+        "android_client_info": {
+          "package_name": "com.chartadeel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56722725879-phlfps9d5fd9lttkn5saojdk0v6ovl8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chartadeel",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "56722725879-8li4bgv5eta2mj9271k18l9amj4oi86o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgxF7vH2k78ShPaTKU829gc4vyV4jPBfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56722725879-8li4bgv5eta2mj9271k18l9amj4oi86o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

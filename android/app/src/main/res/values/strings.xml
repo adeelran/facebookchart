@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">chart</string>
+    
+
+    
+<string name="facebook_app_id">373555002221102</string>
+<string name="facebook_client_token">70c0fa59529f6e6909c3ecabfa25c21d</string>
+
+
 </resources>
