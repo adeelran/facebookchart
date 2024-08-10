@@ -15,7 +15,8 @@ const Home = () => {
     }
   return (
     <View style={styles.container}>
-      <Text style={{padding:20}}> Well   Come</Text>
+      <Text style={{padding:20}}> Well Come</Text>
+      <Text style={{padding:20}}> website</Text>
       <TouchableOpacity onPress={handleLogOut} style={{backgroundColor:"red",borderRadius:10}}>
         <Text style={{padding:20,color:"white",fontWeight:"bold"}}>Logout</Text>
       </TouchableOpacity>
